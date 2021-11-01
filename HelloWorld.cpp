@@ -6,7 +6,8 @@
 int main()
 {
     std::cout << "Hello World les CPI A2!\n";
-    std::cout << "Vous venez de cloner votre premier depot GIT\n";
+    std::cout << "Vous venez de cloner votre premier depot GIT :-)\n";
+    return 0;
 }
 
 // Exécuter le programme : Ctrl+F5 ou menu Déboguer > Exécuter sans débogage
